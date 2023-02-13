@@ -1,0 +1,19 @@
+{
+  "name": "js-projects",
+  "version": "1.0.0",
+  "description": "javascript projects",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/h4r0ldru1z/JSprojects.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/h4r0ldru1z/JSprojects/issues"
+  },
+  "homepage": "https://github.com/h4r0ldru1z/JSprojects#readme"
+}
